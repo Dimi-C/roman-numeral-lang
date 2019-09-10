@@ -4,4 +4,4 @@ doc/
 compiled/
 # ignore racket backup files
 *.bak
-.rkt~
+
